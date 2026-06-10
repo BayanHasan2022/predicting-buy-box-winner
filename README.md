@@ -1,4 +1,4 @@
-# machine-learning-buy-box-winner
+# predicting-buy-box-winner
 A Machine Learning Approach to Predict the Buy Box Winner
 Overview
 This project was developed as part of my Master's degree in Big Data Analytics and Management at Bahçeşehir University.
